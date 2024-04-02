@@ -8,6 +8,8 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{76FBA687-8D77-4F35-8A80-C6BB1A2E158A}"
 	ProjectSection(SolutionItems) = preProject
 		Struct_2 = Struct_2
+		Struct_3 = Struct_3
+		struct_4 = struct_4
 	EndProjectSection
 EndProject
 Global
